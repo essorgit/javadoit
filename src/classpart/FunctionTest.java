@@ -7,13 +7,13 @@ public class FunctionTest {
 
 		
 		int sum = addNum(num1, num2);
-		System.out.println(num1 + "+" + num2 + " = " + sum + "ÀÔ´Ï´Ù");
+		System.out.println(num1 + "+" + num2 + " = " + sum + "ìž…ë‹ˆë‹¤");
 
 	}
 
 	public static int addNum(int n1, int n2) {
 		int result = n1 + n2;
-		return result; // °á°ú °ª ¹ÝÈ¯
+		return result; // ê²°ê³¼ ê°’ ë°˜í™˜
 
 	}
 
