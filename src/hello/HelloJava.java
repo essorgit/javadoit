@@ -1,7 +1,7 @@
 package hello;
 /**
  * 
- * @author Essor (abcd3721@naver.com)
+ * @author Essor (essor3721@gmail.com)
  *
  */
 /*
@@ -19,7 +19,7 @@ public class HelloJava {
 	public static void main(String[] args) {
 		/*
 		 Date : 2021년 4월 5일
-		 Author : 이예솔
+		 Author : Essor
 		 Description : 첫 번째 자바 프로그램입니다.
 		 Version : 1.0
 		 */
